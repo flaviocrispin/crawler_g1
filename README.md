@@ -3,6 +3,7 @@ Crawler de todas as notícias já publicadas no G1
 
 ## Framework
 Jupyter Notebook
+Visual Studio Code
 
 ## Machine Learning
 Algoritmo que prevê se uma notícia é sobre economia ou não.
